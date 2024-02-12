@@ -5,7 +5,7 @@ This is a much better version of the software.  Got a couple kinks out.
 
 Pin 14 is bad idea for motor control because on start-up it is full on.
 
-https://youtu.be/gGOJ26IFdw8
+https://youtu.be/gGOJ26IFdw8  X-box Otto
 
 https://youtu.be/Vnh4Dk7CO6A
 
